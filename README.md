@@ -23,24 +23,22 @@
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project presents an **interactive Sales & Customer Performance Dashboard built using Tableau**.
+This project presents an **Interactive Sales & Customer Performance Dashboard built using Tableau**.
 
-The dashboard analyzes business performance for **2023 compared with the previous year (2022)** across sales, profit, quantity, customers, orders, products, sub-categories, and customer purchasing behavior.
+The dashboard analyzes business performance for **2020-23 compared with the previous years** across sales, profit, quantity, customers, orders, products, sub-categories, and customer purchasing behavior.
 
 The project contains two major dashboard views:
 
 - **Sales Dashboard** – Provides an overview of sales, profit, quantity, sub-category performance, and sales/profit trends.
 - **Customer Dashboard** – Analyzes customer growth, sales per customer, order volume, customer order distribution, and top-performing customers.
 
-Interactive filters allow users to analyze performance by **Year, Category, Sub-Category, Region, State, and City**.
+**Interactive filters** allow users to analyze performance by **Year, Category, Sub-Category, Region, State, and City**.
 
 ---
 
-## Business Problem
+<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
 
-Businesses need to continuously monitor sales and customer performance to identify growth opportunities, profitable products, and areas requiring improvement.
-
-This project aims to answer questions such as:
+Businesses need to continuously monitor sales and customer performance to identify growth opportunities, profitable products, and areas requiring improvement.This project aims to answer questions such as:
 
 - How did sales and profit perform compared with the previous year?
 - Which products and sub-categories generate the highest sales?
