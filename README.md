@@ -70,19 +70,23 @@ sales-customer-dashboard/
 │
 ├── README.md
 │
-├── data/
-│   └── sales_data.csv
+├── Database/
+│   ├── Customers.csv
+│   ├── Location.csv
+│   ├── Orders.csv
+│   └── Products.csv
 │
-├── dashboard/
-│   └── sales_customer_dashboard.twbx
-│
-├── screenshots/
-│   ├── sales-dashboard.png
-│   ├── customer-dashboard.png
-│   └── customer-dashboard-filters.png
-│
-└── reports/
-    └── dashboard-report.pdf
+├── Images/
+│   ├── Icon - Customer Dashboard (active).png
+│   ├── Icon - Customer Dashboard.png
+│   ├── Icon - Filter Hidden.png
+│   ├── Icon - Filter Shown.png
+│   ├── Icon - Logo.png
+│   ├── Icon - Sales Dashboard.png
+│   └── Icon - Sales Dashboard(active).png
+|
+├── README.md
+└── sales-dashboard-project.twbx
 ```
 
 ---
@@ -104,41 +108,6 @@ sales-customer-dashboard/
 | **Total Customers** | **693** | **+8.6%** |
 | **Sales / Customer** | **$1.06K** | **+10.8%** |
 | **Total Orders** | **1,687** | **+28.3%** |
-
----
-
-## Tools & Technologies
-
-- **Tableau** – Data visualization and interactive dashboard development
-- **Tableau Calculations** – KPIs, comparisons, aggregations, and trend analysis
-- **Microsoft Excel / CSV** – Data source and preliminary data handling
-- **Git & GitHub** – Version control and project documentation
-
----
-
-## Project Structure
-
-```text
-sales-customer-dashboard/
-│
-├── README.md
-│
-├── data/
-│   └── sales_data.csv
-│
-├── dashboard/
-│   └── sales_customer_dashboard.twbx
-│
-├── screenshots/
-│   ├── sales-dashboard.png
-│   ├── customer-dashboard.png
-│   └── customer-dashboard-filters.png
-│
-└── reports/
-    └── dashboard-report.pdf
-```
-
-> File names can be adjusted according to the actual files included in the repository.
 
 ---
 
