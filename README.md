@@ -26,13 +26,10 @@
 This project presents an **Interactive Sales & Customer Performance Dashboard built using Tableau**.
 
 The dashboard analyzes business performance for **2020-23 compared with the previous years** across sales, profit, quantity, customers, orders, products, sub-categories, and customer purchasing behavior.
-
 The project contains two major dashboard views:
-
 - **Sales Dashboard** – Provides an overview of sales, profit, quantity, sub-category performance, and sales/profit trends.
 - **Customer Dashboard** – Analyzes customer growth, sales per customer, order volume, customer order distribution, and top-performing customers.
-
-**Interactive filters** allow users to analyze performance by **Year, Category, Sub-Category, Region, State, and City**.
+- **Interactive filters** allow users to analyze performance by **Year, Category, Sub-Category, Region, State, and City**.
 
 ---
 
@@ -52,23 +49,41 @@ Businesses need to continuously monitor sales and customer performance to identi
 
 ---
 
-## Dataset
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-The dashboard uses transactional sales data containing information related to:
+- Multiple CSV files located in the `/Database/` folder. (**Customer, Location, Orders, Products**)
+**Orders** acts as the primary transactional table and is connected with **Customers, Location, and Products tables**.
+---
 
-- Orders
-- Customers
-- Products
-- Categories
-- Sub-Categories
-- Sales
-- Profit
-- Quantity
-- Order Dates
-- Customer Locations
-- Regional information
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
-The data is analyzed at the transaction/order level and aggregated in Tableau to create KPI cards, trend charts, customer analysis, and product performance visualizations.
+- Tableau (Interactive Visualizations)
+- Excel (Data Cleaning)
+- Github
+
+---
+
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
+```text
+sales-customer-dashboard/
+│
+├── README.md
+│
+├── data/
+│   └── sales_data.csv
+│
+├── dashboard/
+│   └── sales_customer_dashboard.twbx
+│
+├── screenshots/
+│   ├── sales-dashboard.png
+│   ├── customer-dashboard.png
+│   └── customer-dashboard-filters.png
+│
+└── reports/
+    └── dashboard-report.pdf
+```
 
 ---
 
