@@ -12,7 +12,6 @@
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
 - <a href="#data-cleaning--preparation">Data Preparation</a>
-- <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
@@ -91,27 +90,7 @@ sales-customer-dashboard/
 
 ---
 
-## Key Performance Indicators
-
-### 📈 Sales Dashboard – 2023
-
-| KPI | 2023 Performance | Change vs Previous Year |
-|---|---:|---:|
-| **Total Sales** | **$733K** | **+20.4%** |
-| **Total Profit** | **$93K** | **+14.2%** |
-| **Total Quantity** | **12.5K** | **+26.8%** |
-
-### 👥 Customer Dashboard – 2023
-
-| KPI | 2023 Performance | Change vs Previous Year |
-|---|---:|---:|
-| **Total Customers** | **693** | **+8.6%** |
-| **Sales / Customer** | **$1.06K** | **+10.8%** |
-| **Total Orders** | **1,687** | **+28.3%** |
-
----
-
-## Data Preparation
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Preparation</h2>
 
 The dataset was prepared for Tableau analysis by:
 
@@ -124,50 +103,6 @@ The dataset was prepared for Tableau analysis by:
 - Preparing monthly sales and profit trends
 - Creating sub-category level sales and profit comparisons
 - Creating customer ranking and order-frequency analysis
-
----
-
-## Exploratory Data Analysis
-
-### Sales & Profit Trends
-
-The sales dashboard compares **2023 performance against 2022** and identifies monthly high and low points.
-
-The 2023 sales trend shows stronger performance toward several later months, with the highest sales occurring during the latter part of the year.
-
-Profit follows a similar overall pattern but contains several periods where sales growth does not translate proportionally into profit growth.
-
-### Product & Sub-Category Performance
-
-The dashboard compares **2023 sales against 2022 sales** across multiple sub-categories, including:
-
-- Phones
-- Chairs
-- Binders
-- Storage
-- Copiers
-- Tables
-- Accessories
-- Machines
-- Appliances
-- Bookcases
-- Furnishings
-- Paper
-- Supplies
-- Art
-- Labels
-- Envelopes
-- Fasteners
-
-Profitability analysis highlights both profitable and loss-making sub-categories.
-
-### Customer Distribution
-
-The Customer Dashboard shows the distribution of customers according to their number of orders.
-
-The distribution indicates that a significant proportion of customers placed only **1–2 orders**, while relatively fewer customers placed a high number of orders.
-
-This provides an opportunity to investigate **customer retention, repeat purchases, and customer loyalty**.
 
 ---
 
