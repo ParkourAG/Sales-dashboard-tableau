@@ -15,7 +15,6 @@
 - <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#final-recommendations">Final Recommendations</a>
 - <a href="#author--contact">Author & Contact</a>
 
 ---
