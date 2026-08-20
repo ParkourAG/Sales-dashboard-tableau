@@ -105,7 +105,7 @@ The dataset was prepared for Tableau analysis by:
 
 ---
 
-## Research Questions & Key Findings
+<h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
 ### 1. Is overall business performance improving?
 
@@ -160,7 +160,7 @@ This makes it possible to identify customers who contribute significantly to rev
 
 ---
 
-## Dashboard
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
 ### 📊 Sales Dashboard
 
