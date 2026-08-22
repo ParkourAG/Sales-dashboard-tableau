@@ -213,7 +213,7 @@ Users can dynamically filter the dashboard by time, product category, and geogra
 ```bash
 git clone https://github.com/ParkourAG/Sales-dashboard-tableau.git
 ```
-
+### 2. Open Tableau
 
 ---
 
