@@ -164,7 +164,8 @@ This makes it possible to identify customers who contribute significantly to rev
 
 ### 📊 Sales Dashboard
 
-![Sales Dashboard](screenshots/sales-dashboard.png)
+![Sales Dashboard 2023](dashboard-images/sales-dashboard-2023.png)
+![Sales Dashboard 2022](dashboard-images/sales-dashboard-2022.png)
 
 The Sales Dashboard provides:
 
@@ -183,7 +184,8 @@ The Sales Dashboard provides:
 
 ### 👥 Customer Dashboard
 
-![Customer Dashboard](screenshots/customer-dashboard.png)
+![Customer Dashboard 2023](dashboard-images/customer-dashboard-2023.png)
+![Customer Dashboard 2022](dashboard-images/customer-dashboard-2022.png)
 
 The Customer Dashboard provides:
 
@@ -201,18 +203,10 @@ The Customer Dashboard provides:
 
 ### 🔎 Interactive Filters
 
-![Customer Dashboard Filters](screenshots/customer-dashboard-filters.png)
+![Customer Dashboard Filters 1](dashboard-images/interactive-filter-1.png)
+![Customer Dashboard Filters 2](dashboard-images/interactive-filter-2.png)
 
-The dashboard includes interactive filters for:
-
-- **Year**
-- **Category**
-- **Sub-Category**
-- **Region**
-- **State**
-- **City**
-
-These filters allow users to drill down from overall business performance into specific products and geographic locations.
+The dashboard includes interactive filters. Where, you can select 
 
 ---
 
