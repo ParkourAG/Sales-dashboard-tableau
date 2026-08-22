@@ -107,57 +107,6 @@ The dataset was prepared for Tableau analysis by:
 
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
-### 1. Is overall business performance improving?
-
-Yes. 2023 shows positive year-over-year growth across the primary sales KPIs:
-
-- Sales increased by **20.4%**
-- Profit increased by **14.2%**
-- Quantity increased by **26.8%**
-
-However, the lower profit growth compared with sales growth suggests that revenue growth should also be evaluated alongside margins and product-level profitability.
-
-### 2. Is the customer base growing?
-
-The total customer count increased by **8.6%**, reaching **693 customers** in 2023.
-
-At the same time, sales per customer increased by **10.8%**, indicating that the business generated more revenue per customer on average.
-
-### 3. Are order volumes increasing?
-
-Yes. Total orders increased by **28.3%**, reaching **1,687 orders**.
-
-The growth in orders is considerably higher than customer growth, indicating increased purchasing activity among existing customers.
-
-### 4. Which sub-categories require attention?
-
-The sub-category profitability visualization identifies several areas where the business generated losses.
-
-Loss-making categories visible in the dashboard include:
-
-- Tables
-- Machines
-- Envelopes
-- Fasteners
-
-These categories should be investigated further for pricing, discounting, procurement costs, and product-level profitability.
-
-### 5. Which customers are high-value?
-
-The Customer Dashboard provides a ranked **Top 10 Customers** table based on customer performance.
-
-The top-ranked customer in the dashboard is **Raymond Buch**, followed by customers such as Hunter Lopez and Tom Ashbrook.
-
-The table provides:
-
-- Customer name
-- Last order date
-- 2023 profit
-- 2023 sales
-- Number of orders
-
-This makes it possible to identify customers who contribute significantly to revenue and profitability.
-
 ---
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
@@ -201,12 +150,19 @@ The Customer Dashboard provides:
 
 ---
 
+### 🔎 Filters
+![Dashboard Filters 1](dashboard-images/subcategory-filter-1.png)
+![Dashboard Filters 2](dashboard-images/subcategory-filter-2.png)
+the dashboard includes a specific filter button.The filters allow users to analyze data by year, product category, region, state, and city, enabling quick identification of customer trends and business performance. 
+
+---
+
 ### 🔎 Interactive Filters
 
-![Customer Dashboard Filters 1](dashboard-images/interactive-filter-1.png)
-![Customer Dashboard Filters 2](dashboard-images/interactive-filter-2.png)
+![interactive Filters 1](dashboard-images/interactive-filter-1.png)
+![interactive Filters 2](dashboard-images/interactive-filter-2.png)
 
-The dashboard includes interactive filters. Where, you can select 
+The dashboard includes interactive filters. Where, you can select specific areas and dashboard will results realated to the selecret categories under the area.
 
 ---
 
