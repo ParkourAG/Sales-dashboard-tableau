@@ -210,45 +210,10 @@ Users can dynamically filter the dashboard by time, product category, and geogra
 ## How to Run This Project
 
 ### 1. Clone the repository
-
 ```bash
-git clone https://github.com/yourusername/sales-customer-dashboard-tableau.git
+git clone https://github.com/ParkourAG/Sales-dashboard-tableau.git
 ```
 
-### 2. Navigate to the project directory
-
-```bash
-cd sales-customer-dashboard-tableau
-```
-
-### 3. Open the Tableau workbook
-
-Open:
-
-```text
-dashboard/sales_customer_dashboard.twbx
-```
-
-using **Tableau Desktop** or a compatible Tableau environment.
-
-### 4. Connect the dataset
-
-If the workbook uses an external CSV/Excel data source, update the data connection path to:
-
-```text
-data/sales_data.csv
-```
-
-### 5. Explore the dashboards
-
-Use the available filters to analyze performance by:
-
-- Year
-- Category
-- Sub-Category
-- Region
-- State
-- City
 
 ---
 
@@ -277,4 +242,4 @@ Data Analyst | B.Sc. Mathematics Graduate
 
 ---
 
-⭐ **If you found this project useful, consider giving the repository a star!**
+⭐ **If you found this project useful, consider giving the repository a star⭐!**
